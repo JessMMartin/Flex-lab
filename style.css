@@ -1,0 +1,24 @@
+
+html{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    background-color: azure;
+}
+
+body{
+    width: 100%;
+}
+
+#header-container{
+    display: flex;
+}
+
+
+.hero-image{
+    display: flex;
+    padding: 30px;
+
+}
+
